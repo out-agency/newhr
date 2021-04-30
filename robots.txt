@@ -1,0 +1,17 @@
+User-Agent: *
+Disallow: /page18841165.html
+Disallow: /header
+Disallow: /page18991438.html
+Disallow: /footer
+Disallow: /tilda/form*
+Disallow: /tilda/rec*
+Disallow: /tilda/click*
+Disallow: /tilda/scroll*
+Disallow: /tilda/popup*
+Disallow: /tilda/cart*
+Disallow: /tilda/product*
+Disallow: /tilda/event*
+Disallow: /*_escaped_fragment_*
+Disallow:
+Sitemap: http://new-hr.tilda.ws/sitemap.xml
+Host: new-hr.tilda.ws
